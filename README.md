@@ -1,4 +1,4 @@
-# Ballastwater_EnvirModel_CommPP_IndivPP_ColoP
+# Incorporation of colonization pressure into the propagule pressure-based global ballast water standard
 Mechanistic models created in R to model the invasion risk of zooplankton with varying levels of community propagule pressure, individual propagule pressure, and colonization pressure.
 
 Files include:
