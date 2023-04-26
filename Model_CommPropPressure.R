@@ -8,14 +8,6 @@ install.packages("plyr")
 
 library(plyr)
 
-########## FUNCTIONS #######
-# is.nan.data.frame <- function(x)
-#   do.call(cbind, lapply(x, is.nan))
-# 
-# meanfun <- function (data, i){
-#   d<-data [i,]
-#   return (mean (d))   
-
 ########  DATA READ-IN AND SET-UP  #####################
 
 ships_data <- read.csv("Discharge_volumes.csv")
